@@ -1,0 +1,62 @@
+
+img {
+	border: 1px solid black;
+	float: right;
+	height: 200px;
+	width: 200px;
+}
+
+body {
+	border: solid black;
+	border-width: 5px 0px;
+	background-color: #cacad0;
+	padding: 15px;
+	margin: 25px 10px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.titles {
+	text-transform: uppercase;
+}
+
+hr {
+	width: 70%;
+	float: center;
+}
+
+#left-column {
+	width: 40%;
+	display: inline-block;
+}
+
+#right-column {
+	width: 40%;
+	display: inline-block;
+}
+
+
+
+/* Solution
+img {
+	border: 1px solid black;
+	height: 35%;
+	float: right;
+}
+
+body {
+	border-top: 10px solid black;
+	border-bottom: 10px solid black;
+	background: gray;
+}
+
+.titles {
+	text-transform: uppercase;
+}
+
+hr {
+	width: 70%;
+}
+*/
